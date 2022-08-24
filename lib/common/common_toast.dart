@@ -1,5 +1,6 @@
 import 'package:fluttertoast/fluttertoast.dart';
 
+// common toast
 void showToast([
   msg,
 ]) {
