@@ -1,0 +1,4 @@
+Features Included
+
+-- Version - 1.1.1+2
+-- IPHONEOS_DEPLOYMENT_TARGET changed to 12
